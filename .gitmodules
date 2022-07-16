@@ -1,0 +1,9 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:JhonnyJason/osc-admin-interface-output.git
+[submodule "sources"]
+	path = sources
+	url = git@github.com:JhonnyJason/osc-admin-interface-sources.git
+[submodule "toolset"]
+	path = toolset
+	url = git@github.com:JhonnyJason/toolset.git
