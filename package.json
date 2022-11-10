@@ -109,6 +109,7 @@
         "purgecss": "^5.0.0",
         "qr-scanner": "^1.4.1",
         "secret-manager-client": "^0.0.6",
+        "secret-manager-crypto-utils": "^0.1.1",
         "stylus": "^0.59.0",
         "thingy-allmodules-sync": "^0.2.0",
         "thingy-byte-utils": "^0.0.7",
